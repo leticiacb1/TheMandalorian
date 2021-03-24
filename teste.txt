@@ -1,3 +1,0 @@
-dicio: Erro interno.
-código: undefined
-descrição: Reduce of empty array with no initial value
